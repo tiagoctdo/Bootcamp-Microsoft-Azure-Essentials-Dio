@@ -1,0 +1,67 @@
+Localizando Serviços por Categoria no Microsoft Azure
+Introdução
+O Microsoft Azure oferece uma ampla gama de serviços para atender às necessidades de diferentes setores, desde computação em nuvem, armazenamento, até análise de dados e segurança. Para facilitar a navegação e localização desses serviços, o Azure organiza seus serviços em categorias.
+
+Acessando o Portal do Azure
+Login no Portal do Azure
+
+Acesse o Portal do Azure.
+Insira suas credenciais de login (e-mail e senha).
+Após o login, você será direcionado ao painel principal (dashboard) do Azure.
+Navegando no Portal
+
+No painel principal, você verá uma lista de serviços usados recentemente e ícones para acessar diferentes seções, como "Recursos", "Assinaturas", "Grupos de Recursos", entre outros.
+Localizando Serviços por Categoria
+1. Usando o Menu de Serviços no Portal do Azure
+No lado esquerdo do painel principal, há um menu chamado Serviços de Azure.
+Clique em Todos os serviços para visualizar uma lista completa de serviços disponíveis.
+Esta seção é dividida em várias categorias para facilitar a navegação.
+2. Categorias de Serviços Principais
+Abaixo estão as principais categorias e uma breve descrição do que cada uma engloba:
+
+Computação
+
+Serviços como Máquinas Virtuais (VMs), Azure Functions, e App Services.
+Úteis para processamento de dados, hospedagem de aplicações, e execução de tarefas em servidores na nuvem.
+Redes
+
+Inclui Azure Virtual Network (VNet), Balanceamento de Carga, e Gateways de Aplicação.
+Utilizados para configuração de redes privadas, conectividade segura, e gerenciamento de tráfego.
+Armazenamento
+
+Serviços como Armazenamento de Blob, Discos Gerenciados, e Arquivos do Azure.
+Ideais para armazenar dados, backups, e compartilhar arquivos.
+Bancos de Dados
+
+Azure SQL Database, Cosmos DB, e Azure Database for MySQL.
+Oferecem soluções de banco de dados relacionais e NoSQL, gerenciadas e escaláveis.
+Segurança e Identidade
+
+Inclui Azure Active Directory (AD), Key Vault, e Azure Security Center.
+Ferramentas para gerenciamento de identidade, segurança de chaves, e conformidade.
+Análise
+
+Azure Synapse Analytics, Power BI, e Azure Data Lake.
+Focadas em análise de dados em larga escala e geração de insights.
+IA e Machine Learning
+
+Serviços como Azure Machine Learning, Cognitive Services, e Bot Services.
+Facilitam a criação, treinamento, e implementação de modelos de IA e ML.
+IoT (Internet das Coisas)
+
+IoT Hub, IoT Central, e Time Series Insights.
+Oferecem suporte para a criação de soluções IoT, conectando dispositivos e analisando dados em tempo real.
+DevOps
+
+Azure DevOps, Azure Pipelines, e GitHub Actions para Azure.
+Ferramentas para automação de deploy, integração contínua e gerenciamento de código-fonte.
+Gerenciamento e Governança
+
+Azure Policy, Azure Monitor, e Azure Cost Management.
+Soluções para monitoramento, gerenciamento de custos, e conformidade.
+3. Usando o Campo de Pesquisa
+No topo do portal, há um campo de pesquisa onde você pode digitar o nome do serviço que está procurando.
+O Azure retornará uma lista de resultados que correspondem à sua pesquisa, incluindo serviços, documentos e recursos relacionados.
+4. Explorando a Documentação do Azure
+Para entender mais sobre um serviço específico, você pode acessar a Documentação do Azure.
+A documentação é dividida por produtos e oferece tutoriais, guias de início rápido e exemplos de uso.
