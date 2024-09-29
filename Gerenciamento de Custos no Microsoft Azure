@@ -1,11 +1,11 @@
-## Gerenciamento de Custos no Microsoft Azure ##
+## Gerenciamento de Custos no Microsoft Azure
 
 ### Quais os fatores que podem afetar os custos no Microsoft Azure ###
 
-***Tipo de recurso:**
+*Tipo de recurso:*
     * Cada tipo de recurso, como VMs, bancos de dados, armazenamento e redes, tem sua própria estrutura de custos.
     * A escolha de um recurso com mais capacidade ou funcionalidades pode impactar diretamente os custos.
-***Consumo:**
+*Consumo:*
     * O uso efetivo de recursos como processamento, armazenamento e transferência de dados afeta os custos.
     * Um aumento no consumo de qualquer recurso resulta em um aumento proporcional nos custos.
 ***Manutenção:**
