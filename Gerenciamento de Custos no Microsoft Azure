@@ -3,19 +3,19 @@
 ### Quais os fatores que podem afetar os custos no Microsoft Azure
 
 * **Tipo de recurso:**
-  * Cada tipo de recurso, como VMs, bancos de dados, armazenamento e redes, tem sua própria estrutura de custos.
-  * A escolha de um recurso com mais capacidade ou funcionalidades pode impactar diretamente os custos.
+   Cada tipo de recurso, como VMs, bancos de dados, armazenamento e redes, tem sua própria estrutura de custos.
+   A escolha de um recurso com mais capacidade ou funcionalidades pode impactar diretamente os custos.
 * **Consumo:**
-  * O uso efetivo de recursos como processamento, armazenamento e transferência de dados afeta os custos.
-  * Um aumento no consumo de qualquer recurso resulta em um aumento proporcional nos custos.
+   O uso efetivo de recursos como processamento, armazenamento e transferência de dados afeta os custos.
+   Um aumento no consumo de qualquer recurso resulta em um aumento proporcional nos custos.
 * **Manutenção:**
-  * Custos relacionados à manutenção e ao suporte dos serviços, como atualizações, monitoramento e correção de falhas, podem adicionar despesas operacionais.
+   Custos relacionados à manutenção e ao suporte dos serviços, como atualizações, monitoramento e correção de falhas, podem adicionar despesas operacionais.
 * **Área Geográfica:**
-  * Os preços variam conforme a região onde os recursos são provisionados. Serviços em regiões com alta demanda ou menos disponibilidade tendem a ter custos mais altos.
+   Os preços variam conforme a região onde os recursos são provisionados. Serviços em regiões com alta demanda ou menos disponibilidade tendem a ter custos mais altos.
 * **Tráfego de rede:**
-  * A movimentação de dados entre regiões ou dentro da própria infraestrutura pode gerar custos de rede, especialmente quando há transferência de dados entre diferentes datacenters.
+   A movimentação de dados entre regiões ou dentro da própria infraestrutura pode gerar custos de rede, especialmente quando há transferência de dados entre diferentes datacenters.
 * **Assinatura:**
-  * O tipo de assinatura do Azure (por exemplo, Pay-as-you-go, reservas, ou planos com desconto para empresas) pode oferecer preços diferenciados e afetar a gestão dos custos.
+   O tipo de assinatura do Azure (por exemplo, Pay-as-you-go, reservas, ou planos com desconto para empresas) pode oferecer preços diferenciados e afetar a gestão dos custos.
 
 ### Calcular de preços e TCO
 
