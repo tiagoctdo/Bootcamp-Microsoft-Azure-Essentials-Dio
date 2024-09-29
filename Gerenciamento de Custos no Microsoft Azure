@@ -1,0 +1,31 @@
+## Gerenciamento de Custos no Microsoft Azure
+
+### Quais os fatores que podem afetar os custos no Microsoft Azure
+
+* **Tipo de recurso:**
+    * Cada tipo de recurso, como VMs, bancos de dados, armazenamento e redes, tem sua própria estrutura de custos.
+    * A escolha de um recurso com mais capacidade ou funcionalidades pode impactar diretamente os custos.
+* **Consumo:**
+    * O uso efetivo de recursos como processamento, armazenamento e transferência de dados afeta os custos.
+    * Um aumento no consumo de qualquer recurso resulta em um aumento proporcional nos custos.
+* **Manutenção:**
+    * Custos relacionados à manutenção e ao suporte dos serviços, como atualizações, monitoramento e correção de falhas, podem adicionar despesas operacionais.
+* **Área Geográfica:**
+    * Os preços variam conforme a região onde os recursos são provisionados. Serviços em regiões com alta demanda ou menos disponibilidade tendem a ter custos mais altos.
+* **Tráfego de rede:**
+    * A movimentação de dados entre regiões ou dentro da própria infraestrutura pode gerar custos de rede, especialmente quando há transferência de dados entre diferentes datacenters.
+* **Assinatura:**
+    * O tipo de assinatura do Azure (por exemplo, Pay-as-you-go, reservas, ou planos com desconto para empresas) pode oferecer preços diferenciados e afetar a gestão dos custos.
+
+### Calcular de preços e TCO:
+* O Azure oferece ferramentas para estimar o custo total dos recursos antes da implementação.
+* Para calcular o TCO, você pode analisar não apenas os custos de infraestrutura, mas também o impacto operacional, manutenção, e as economias possíveis em comparação com soluções on-premise.
+
+### Ferramentas de gerenciamento de custos no Azure:
+* Oferecem uma visão detalhada dos gastos, com relatórios, dashboards e alertas para controle do orçamento.
+* Fornecem recomendações para otimizar o uso de recursos e reduzir custos.
+* Monitora o desempenho dos recursos e identifica oportunidades para economizar.
+Marca ou tags:
+ São usadas para classificar e agrupar recursos. Isso facilita a organização e o controle de custos por departamento, projeto ou ambiente, permitindo uma visualização clara dos gastos para cada grupo de recursos.
+Azure Marktplace:
+é uma loja de soluções de software e serviços que podem ser integrados diretamente à sua infraestrutura no Azure. Ele oferece soluções prontas de terceiros que podem ser implementadas rapidamente, com controle de custos simplificado, já que os preços são transparentes e diretamente integrados à sua fatura do Azure.
