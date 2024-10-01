@@ -1,0 +1,8 @@
+Governança e Conformidade
+Microsoft Azure
+O Portal de Confiança do Serviço da Microsoft Azure oferece uma visão abrangente das certificações e regulamentações dos serviços para diversos países. As regulamentações podem ser filtradas por região, facilitando a busca por informações específicas. O portal também disponibiliza documentações de conformidade e relatórios de auditoria detalhados.
+
+Microsoft Purview
+O Microsoft Purview é uma ferramenta essencial para a administração de recursos, proteção de informações e conformidade. Ele auxilia na mitigação de riscos, restrição de barreiras de informações e resolução de conflitos. Além disso, o Purview pode ser integrado com o Privacy para atender às regulamentações, identificando pontos fracos e fortes e gerando relatórios correspondentes.
+
+Dentro do cenário do Purview, há um módulo que trabalha em conjunto com o Microsoft 365 na coleta de dados e validação de informações, garantindo uma gestão eficiente e segura.
